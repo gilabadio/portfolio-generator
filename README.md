@@ -1,7 +1,7 @@
 # Portfolio Generaot
 
 ## Installation
-Clone the repository, install node.js and then make sure you run npm install on the conrol panel.
+Clone the repository, install node.js and then make sure you run npm install on the control panel.
 
 ## Built with 
 * Node.js
